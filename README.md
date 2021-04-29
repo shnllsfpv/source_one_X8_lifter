@@ -8,40 +8,37 @@ The SOURCE ONE X8 LIFTER is based on the popular SOURCE ONE V4 frame by Team Bla
 
 ## Frame specifications
 * Wheelbase 5": 226mm
-* Wheelbase 7": 318mm
 * Top plate: 2mm
 * Bottom plate 3mm
 * Standoff height: 30mm
 * Arm thickness 5": 5mm
 * Cover plate thickness: 3mm
 * Stack mounting: 30.5 × 30.5mm & 20 x 20
-* Weight 5": 99.5g
+* Weight: 
 
-## Hardware
-* 24x M3x10 allen screw
-* 4x M3x14 allen screw
-* 8X OD 5mm M3 30mm standoff
-* 6x M3 press insert nut
-* 
+## Hardware for the X8
+* 1x TBS SOURCE ONE V4
+* 2x Arm 1 for X8
+* 2x Arm 2 for X8
+* 8x Cover for X8
 
-<img src="https://raw.githubusercontent.com/tbs-trappy/source_one/master/SourceOne_press_insert_nut.png" width="800">
+## Arm 1 for X8
+
+<img src="https://github.com/shnllsfpv/source_one_X8_lifter/blob/master/photos/arm1.jpeg" width="800">
+
+## Arm 2 for X8
+
+<img src="https://github.com/shnllsfpv/source_one_X8_lifter/blob/master/photos/arm2.jpeg" width="800">
+
+## Cover for X8
+
+<img src="https://github.com/shnllsfpv/source_one_X8_lifter/blob/master/photos/cover.jpeg" width="800">
 
 ## Compatibility
 
 | Part          |           v0.1|          v0.11|           v0.2|                     v3|                     v4|
 | ------------- | ------------- | ------------- | ------------- | -------------         | -------------         |
-| topplate      |fits only v0.1   |               |                       |fits all lower versions|fits only v4   |      
-| bottompate    |fits only v0.1   |               |fits all lower versions|fits only v3   |fits only v4   |      
-| arms          |                 |               |                       |fits all lower versions               |fits only v4   |      
-| centerplate   |fits only v0.1   |               |fits  v0.11 and v0.2   |fits only v3   |fits only v4   |      
-| camplates     |fits only v0.1   |               |                       |fits all lower versions|fits only v4   |      
-| battery pad   |no pad available |               |fits all lower versions|fits only v3   |fits only v4   |  
 | x8 arms       |                 |               |                       |               |fits only v4   |      
-
-## Changelog
-### SourceOne v4
-* complete redesign
-* DJI Airunits fits in the back
 
 
 <img src="https://github.com/tbs-trappy/source_one/blob/master/photos/source_one_v4_1.JPG" width="350"> <img src="https://github.com/tbs-trappy/source_one/blob/master/photos/source_one_v4_2.JPG" width="350"> <img src="https://github.com/tbs-trappy/source_one/blob/master/photos/source_one_v4_3.JPG" width="350"> <img src="https://github.com/tbs-trappy/source_one/blob/master/photos/source_one_v4_4.JPG" width="350"> <img src="https://github.com/tbs-trappy/source_one/blob/master/photos/source_one_v4_5.JPG" width="350"> <img src="https://github.com/tbs-trappy/source_one/blob/master/photos/source_one_v4_6.JPG" width="350"> <img src="https://github.com/tbs-trappy/source_one/blob/master/photos/source_one_v4_7.JPG" width="350"> <img src="https://github.com/tbs-trappy/source_one/blob/master/photos/source_one_v4_8.JPG" width="350"> <img src="https://github.com/tbs-trappy/source_one/blob/master/photos/source_one_v4_9.JPG" width="350"> <img src="https://github.com/tbs-trappy/source_one/blob/master/photos/source_one_v4_10.JPG" width="350"> <img src="https://github.com/tbs-trappy/source_one/blob/master/photos/source_one_v4_11.JPG" width="350">
