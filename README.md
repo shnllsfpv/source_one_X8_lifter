@@ -2,7 +2,7 @@
 
 # About SOURCE ONE X8 LIFTER
 ## The idea
-The SOURCE ONE X8 LIFTER is based on the popular SOURCE ONE V4 frame by Team BlackSheep. The SOURCE ONE X8 uses the TBS SOURCE ONE V4 and only the arms were redesigned to hold eight motors.
+The SOURCE ONE X8 LIFTER is based on the popular SOURCE ONE V4 frame by Team BlackSheep. The SOURCE ONE X8 uses the TBS SOURCE ONE V4 and only the arms were redesigned to hold eight motors. Two new arms were designed plus a cover. One motor gets mounted to the arm and one to the cover. The cover gets then mounted to the arm.
 
 <img src="https://github.com/shnllsfpv/source_one_X8_lifter/blob/master/photos/X8_lifter.jpeg" width="800">
 
@@ -38,10 +38,9 @@ The SOURCE ONE X8 LIFTER is based on the popular SOURCE ONE V4 frame by Team Bla
 
 | Part          |           v0.1|          v0.11|           v0.2|                     v3|                     v4|
 | ------------- | ------------- | ------------- | ------------- | -------------         | -------------         |
-| x8 arms       |                 |               |                       |               |fits only v4   |      
+| x8 arms + cover      |                 |               |                       |               |fits only v4   |      
 
 
-<img src="https://github.com/tbs-trappy/source_one/blob/master/photos/source_one_v4_1.JPG" width="350"> <img src="https://github.com/tbs-trappy/source_one/blob/master/photos/source_one_v4_2.JPG" width="350"> <img src="https://github.com/tbs-trappy/source_one/blob/master/photos/source_one_v4_3.JPG" width="350"> <img src="https://github.com/tbs-trappy/source_one/blob/master/photos/source_one_v4_4.JPG" width="350"> <img src="https://github.com/tbs-trappy/source_one/blob/master/photos/source_one_v4_5.JPG" width="350"> <img src="https://github.com/tbs-trappy/source_one/blob/master/photos/source_one_v4_6.JPG" width="350"> <img src="https://github.com/tbs-trappy/source_one/blob/master/photos/source_one_v4_7.JPG" width="350"> <img src="https://github.com/tbs-trappy/source_one/blob/master/photos/source_one_v4_8.JPG" width="350"> <img src="https://github.com/tbs-trappy/source_one/blob/master/photos/source_one_v4_9.JPG" width="350"> <img src="https://github.com/tbs-trappy/source_one/blob/master/photos/source_one_v4_10.JPG" width="350"> <img src="https://github.com/tbs-trappy/source_one/blob/master/photos/source_one_v4_11.JPG" width="350">
 
 ## Project license
 The frame files are released under GNU Public License (GPL) V3. More information here: https://www.gnu.org/licenses/gpl-3.0.en.html 
