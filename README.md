@@ -18,9 +18,9 @@ The SOURCE ONE X8 LIFTER is based on the popular SOURCE ONE V4 frame by Team Bla
 
 ## Hardware for the X8
 * 1x TBS SOURCE ONE V4
-* 2x Arm 1 for X8
-* 2x Arm 2 for X8
-* 8x Cover for X8
+* 2x Arm 1 for X8 - <https://github.com/shnllsfpv/source_one_X8_lifter/blob/master/Arm_1_X8_LIFTER.stp>
+* 2x Arm 2 for X8 - <https://github.com/shnllsfpv/source_one_X8_lifter/blob/master/Arm_2_X8_LIFTER.stp>
+* 8x Cover for X8 - <https://github.com/shnllsfpv/source_one_X8_lifter/blob/master/Cover_X8_LIFTER.stp>
 * 32x M3x6mm screws
 * 10x M3x12mm screws, to secure cover to the arm
 * 10x M3 lock nuts, to secure cover to the arm
