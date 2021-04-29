@@ -21,6 +21,10 @@ The SOURCE ONE X8 LIFTER is based on the popular SOURCE ONE V4 frame by Team Bla
 * 2x Arm 1 for X8
 * 2x Arm 2 for X8
 * 8x Cover for X8
+* 32x M3x6mm screws
+* 10x M3x12mm screws, to secure cover to the arm
+* 10x M3 lock nuts, to secure cover to the arm
+* 4x M3x40mm screws for the stack
 
 ## Arm 1 for X8
 
