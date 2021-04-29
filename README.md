@@ -40,7 +40,8 @@ The SOURCE ONE X8 LIFTER is based on the popular SOURCE ONE V4 frame by Team Bla
 | ------------- | ------------- | ------------- | ------------- | -------------         | -------------         |
 | x8 arms + cover      |                 |               |                       |               |fits only v4   |      
 
-
+##Changelog
+2021-04-29: Added SO_v4_X8_LIFTER.STP; Arm_1_X8_LIFTER.stp; Arm_2_X8_LIFTER.stp; Cover_X8_LIFTER.stp;
 
 ## Project license
 The frame files are released under GNU Public License (GPL) V3. More information here: https://www.gnu.org/licenses/gpl-3.0.en.html 
