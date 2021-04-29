@@ -4,7 +4,7 @@
 ## The idea
 The SOURCE ONE X8 LIFTER is based on the popular SOURCE ONE V4 frame by Team BlackSheep. The SOURCE ONE X8 uses the TBS SOURCE ONE V4 and only the arms were redesigned to hold eight motors.
 
-<img src="https://github.com//shnllsfpv/source_one_X8_lifter/master/photos/X8_lifter.jpeg" width="800">
+<img src="https://github.com/shnllsfpv/source_one_X8_lifter/blob/master/photos/X8_lifter.jpeg" width="800">
 
 ## Frame specifications
 * Wheelbase 5": 226mm
