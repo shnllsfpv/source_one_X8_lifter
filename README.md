@@ -28,35 +28,6 @@ The SOURCE ONE X8 LIFTER is based on the popular SOURCE ONE V4 frame by Team Bla
 
 <img src="https://raw.githubusercontent.com/tbs-trappy/source_one/master/SourceOne_press_insert_nut.png" width="800">
 
-## Project links
-* Project discussion: https://discordapp.com/invite/ZJGkHwF 
-* Project files: https://github.com/tbs-trappy/source_one 
-* 3D-printed accessories: https://www.thingiverse.com/tag:sourceone
-
-Please use the tag "sourceone" when uploading files to thingiverse.com
-
-## Where to buy
-* [www.team-blacksheep.com](https://team-blacksheep.com/products/prod:source_one_5in)
-* [www.racequadgear.de](https://www.racequadgear.de/TBS-SOURCE-ONE-5)
-* [www.n-factory.de](https://n-factory.de/TBS-SOURCE-ONE-5)
-* [www.redbee.de](https://redbee.de/TBS-Source-ONE-5-VXXX)
-* [www.defiancerc.com](https://www.defiancerc.com/products/tbs-source-one-5-v0-11)
-* [www.ka-nickel.eu](https://ka-nickel.eu/produkt/tbs-source-one/)
-* [www.phaserfpv.com.au](https://www.phaserfpv.com.au/products/tbssourceone5framekitv011)
-* [www.multirotorshop.com](https://www.multirotorshop.com.au/product/tbs-source-one-v0-2-5inch/)
-* [www.shop.brickracing.com](https://shop.brickracing.com/TBS-Source-One-V0.2-drone-frame)
-* [www.skanehobby.se](https://www.skanehobby.se/shop/tbs-source-one-v0-2/)
-* [www.juampifpv.com](https://www.juampifpv.com/index.php?pagina=detalle&idp=403)
-* [www.killadrones.co.nz](https://www.killadrones.co.nz/store/TBS-Source-One-5-Inch-Frame-p137993332)
-* [www.quadjunkie.co.nz](https://quadjunkie.co.nz/product-category/racing-freestyle-frames/tbs-source-one/)
-* [www.drone-fpv-racer.com](https://www.drone-fpv-racer.com/en/dfr-source-one-5-frame-v3-3579.html)
-* open [issue](https://github.com/tbs-trappy/source_one/issues/new) if you want your shop added
-
-## Where to buy 3D printed parts
-Here is a list of recommended 3D Printing services who are sharing their files under the GPL license (OpenSource). 
-* [3dmatisse USA](http://bit.ly/3dmatisse_USA)
-* [bmc3d.co](https://bmc3d.co/collections/all/source-one)
-
 ## Compatibility
 
 | Part          |           v0.1|          v0.11|           v0.2|                     v3|                     v4|
