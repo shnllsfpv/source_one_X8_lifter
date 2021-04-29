@@ -49,11 +49,3 @@ The SOURCE ONE X8 LIFTER is based on the popular SOURCE ONE V4 frame by Team Bla
 
 ## Project license
 The frame files are released under GNU Public License (GPL) V3. More information here: https://www.gnu.org/licenses/gpl-3.0.en.html 
-
-
-## Project naming requirements
-SOURCE ONE is the name of the frame. If you are thinking about manufacturing it, you are expected to prefix the name with a brand name in order to allow customers to distinguish the different manufacturers, e.g. “TBS SOURCE ONE”. As a manufacturer you are also expected to denote the version number of the frame files that you have placed as basis of the project, e.g. “TBS SOURCE ONE V0.1”. 
-If you have forked the project, you need to give it another name in order to avoid confusion between SOURCE ONE and your project.
-Accessories from the SOURCE ONE project also need to be named with the entire prefix, e.g. “TBS SOURCE ONE FPV Camera Adapter”. Unless the file is not compatible with certain versions of the frame, the compatible version number or version range also needs to be included in the name, e.g. “TBS SOURCE ONE FPV Camera Adapter V0.1 - V2”
-
-
