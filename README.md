@@ -1,12 +1,10 @@
 # source_one_X8_lifter
-Open Source FPV Drone Frame project initiated by Team BlackSheep
-[<img src="https://raw.githubusercontent.com/tbs-trappy/source_one/master/photos/wallpaper/source_one_small.png" width="800">](https://github.com/tbs-trappy/source_one/blob/master/photos/wallpaper/source_one.png)
 
 # About SOURCE ONE X8 LIFTER
 ## The idea
 The SOURCE ONE X8 LIFTER is based on the popular SOURCE ONE V4 frame by Team BlackSheep. The SOURCE ONE X8 uses the TBS SOURCE ONE V4 and only the arms were redesigned to hold eight motors.
 
-<img src="https://raw.githubusercontent.com/tbs-trappy/source_one/master/photos/source_one_v0.2_ghost.jpg" width="800">
+<img src="https://raw.githubusercontent.com/tbs-trappy/source_one/master/photos/X8 Lifter.jpg" width="800">
 
 ## Frame specifications
 * Wheelbase 5": 226mm
