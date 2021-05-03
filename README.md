@@ -14,7 +14,7 @@ The SOURCE ONE X8 LIFTER is based on the popular SOURCE ONE V4 frame by Team Bla
 * Arm thickness 5": 5mm
 * Cover plate thickness: 3mm
 * Stack mounting: 30.5 × 30.5mm & 20 x 20
-* Weight: 
+* Weight: 127.5g
 
 ## Hardware for the X8
 * 1x TBS SOURCE ONE V4
